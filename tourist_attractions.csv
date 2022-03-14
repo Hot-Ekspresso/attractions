@@ -231,7 +231,6 @@ city ​​power;architecture;Amur region;Blagoveshchensk;"(Decimal('127.527173'
 City Nikolaev School;architecture;Tyumen region;Tyumen;"(Decimal('69.420835'), Decimal('56.107122'))"
 City Women's College;architecture;Novosibirsk region;Novosibirsk;"(Decimal('82.923619'), Decimal('55.012532'))"
 Urban apartment building;architecture;Novosibirsk region;Novosibirsk;"(Decimal('82.958761'), Decimal('55.041787'))"
-"Гостиница &quot;Арктика&quot;; самое высокое в мире здание за Полярным кругом";architecture;Murmansk region;Murmansk;Not found
 "Hotel ""Bristol""";architecture;Voronezh region;Voronezh;"(Decimal('39.200269'), Decimal('51.660781'))"
 "The hotel ""Versailles""";architecture;Primorsky Krai;Vladivostok;"(Decimal('131.885485'), Decimal('43.115536'))"
 "Hotel ""Volgograd""";architecture;Volgograd region;Volgograd;"(Decimal('44.516948'), Decimal('48.707067'))"
@@ -302,8 +301,6 @@ Demetrius Cathedral;architecture;Vladimir region;Vladimir;"(Decimal('40.560884')
 Dnieper gates gate Odigitrievsky church;architecture;Smolensk region;Smolensk;Not found
 Dovmont town;architecture;Pskov region;Pskov;"(Decimal('28.332451'), Decimal('57.819274'))"
 House;architecture;Kurgan region;Mound;"(Decimal('65.334893'), Decimal('55.430319'))"
-Дом &quot;Корабль&quot;;architecture;Ivanovo region;Ivanovo;Not found
-Дом &quot;Подкова&quot;;architecture;Ivanovo region;Ivanovo;Not found
 "House of ""Aeroflot""";architecture;Novosibirsk region;Novosibirsk;"(Decimal('82.958761'), Decimal('55.041787'))"
 House AA Delvig;architecture;St. Petersburg;St. Petersburg;"(Decimal('30.368285'), Decimal('59.927189'))"
 House AA Drozzhilova;architecture;Sverdlovsk region;Ekaterinburg;"(Decimal('60.565342'), Decimal('56.845884'))"
@@ -493,7 +490,6 @@ Engineer House Ostaptsa;architecture;Kurgan region;Mound;"(Decimal('65.334893'),
 Engineer House Pertsov;architecture;Moscow;Not found;"(Decimal('37.577427'), Decimal('55.769747'))"
 Treasury house;architecture;Yaroslavskaya oblast;Myshkin;"(Decimal('38.454587'), Decimal('57.786654'))"
 House of Princess Gagarina;architecture;St. Petersburg;St. Petersburg;"(Decimal('30.295683'), Decimal('59.920154'))"
-Дом компании &quot;Схефальс и Эсдерс&quot;;architecture;St. Petersburg;St. Petersburg;Not found
 house of Composers;architecture;Novosibirsk region;Novosibirsk;"(Decimal('82.958761'), Decimal('55.041787'))"
 house konservschikov;architecture;Volgograd region;Volgograd;"(Decimal('44.483639'), Decimal('48.684565'))"
 House peasant AY Kapitanova;architecture;Tyumen region;Tyumen;"(Decimal('65.397784'), Decimal('57.272057'))"
@@ -611,7 +607,6 @@ house Korobkov;architecture;Sverdlovsk region;Ekaterinburg;"(Decimal('60.597465'
 Houses merchants AD Smolin and TE Kolesnikov;architecture;Kurgan region;Not found;Not found
 Houses merchants Shelikhov;architecture;Kursk region;Gorno;"(Decimal('34.681043'), Decimal('51.571263'))"
 GS manor house Koloshin;architecture;Kirov region;Kirov;"(Decimal('49.668014'), Decimal('58.603591'))"
-"Дома; раскрашенные под &quot;Дымку&quot;";architecture;Kirov region;Kirov;"(Decimal('49.745664'), Decimal('58.417482'))"
 Apartment houses Meshchansky society;architecture;St. Petersburg;St. Petersburg;"(Decimal('30.350678'), Decimal('59.937535'))"
 Apartment houses Tretyakova;architecture;Kostroma region;Kostroma;"(Decimal('40.940036'), Decimal('57.781572'))"
 Profitable home Chelisheva;architecture;Samara Region;Samara;"(Decimal('50.198406'), Decimal('53.36437'))"
@@ -642,7 +637,6 @@ Apartment house of a merchant Eliseev;architecture;St. Petersburg;St. Petersburg
 Apartment house of a merchant Chuvildina;architecture;Sverdlovsk region;Ekaterinburg;"(Decimal('60.675322'), Decimal('56.833161'))"
 Apartment house tradesman AF Vykhodtsev;architecture;Novosibirsk region;Novosibirsk;"(Decimal('82.92043'), Decimal('55.030199'))"
 "Apartment house on the street Chaplygin; 45";architecture;Novosibirsk region;Novosibirsk;"(Decimal('82.916136'), Decimal('55.025797'))"
-Доходный дом страхового общества &quot;Саламандра&quot;;architecture;St. Petersburg;St. Petersburg;Not found
 religious school;architecture;Perm;Solikamsk;"(Decimal('56.771029'), Decimal('59.648333'))"
 religious school;architecture;Kostroma region;Kostroma;"(Decimal('40.926858'), Decimal('57.767961'))"
 Dymkovo settlement;architecture;Vologda Region;great Ustyug;"(Decimal('46.29784'), Decimal('60.761156'))"
@@ -844,7 +838,6 @@ Building of meteorological station;architecture;Altai region;Barnaul;"(Decimal('
 Building mineral baths;architecture;Lipetsk region;Lipetsk;"(Decimal('39.59922'), Decimal('52.60882'))"
 The building of the gymnasium;architecture;Krasnoyarsk region;Pitorafik;"(Decimal('92.173769'), Decimal('58.453069'))"
 The building is the gymnasium (high school №9);architecture;Sverdlovsk region;Ekaterinburg;"(Decimal('60.597465'), Decimal('56.838011'))"
-Здание музея &quot;Русская старина&quot;;architecture;Smolensk region;Smolensk;Not found
 The building of musical school number 1;architecture;Volgograd region;Volgograd;"(Decimal('44.516948'), Decimal('48.707067'))"
 The building of musical school №14;architecture;Volgograd region;Volgograd;"(Decimal('44.516948'), Decimal('48.707067'))"
 City Hall;architecture;Novosibirsk region;Novosibirsk;"(Decimal('82.92043'), Decimal('55.030199'))"
@@ -988,7 +981,6 @@ Merchant Chamber of XVII century;architecture;Vladimir region;Gorohovets;Not fou
 Mound Badger log;architecture;The Republic of Khakassia;Moscow;"(Decimal('91.106121'), Decimal('53.928477'))"
 Kыz-Kermen and Tepe-Kermen;architecture;Republic of Crimea;parking;"(Decimal('33.923233'), Decimal('44.699'))"
 Lazarevski barracks;architecture;Sevastopol;Not found;"(Decimal('33.525369'), Decimal('44.616604'))"
-Ландшафтный сквер &quot;Дворянское гнездо&quot;;architecture;Oryol Region;Eagle;"(Decimal('36.05268'), Decimal('52.967176'))"
 bird home;architecture;Republic of Crimea;Haspra;"(Decimal('34.128534'), Decimal('44.431153'))"
 Leningrad Station;architecture;Moscow;Not found;"(Decimal('37.655212'), Decimal('55.776451'))"
 Lermontov gallery;architecture;Stavropol region;Pyatigorsk;"(Decimal('43.06448'), Decimal('44.062594'))"
@@ -1129,7 +1121,6 @@ mansion Plotnikov;architecture;Saratov region;Saratov;"(Decimal('46.034158'), De
 Polovtsov mansion (architect house);architecture;St. Petersburg;St. Petersburg;"(Decimal('30.315868'), Decimal('59.939095'))"
 mansion Ryabushinsky;architecture;Moscow;Not found;"(Decimal('37.617635'), Decimal('55.755814'))"
 mansion Selivanov;architecture;Yaroslavskaya oblast;Rostov;"(Decimal('39.414526'), Decimal('57.185866'))"
-Особняк Спиридонова (Дворец &quot;Малютка&quot;);architecture;St. Petersburg;St. Petersburg;"(Decimal('30.315868'), Decimal('59.939095'))"
 Surkov's mansion;architecture;Arhangelsk region;Arkhangelsk;"(Decimal('40.515753'), Decimal('64.539911'))"
 Mansion TF Bulycheva;architecture;Kirov region;Kirov;Not found
 Mansion Shcherbakova;architecture;Perm;Kungur;"(Decimal('56.944206'), Decimal('57.42881'))"
@@ -1354,7 +1345,6 @@ Tambov State Musical Pedagogical Institute. SV Rachmaninoff;architecture;Tambov 
 Tver boulder architecture;architecture;Tver region;Not found;"(Decimal('33.241286'), Decimal('56.624455'))"
 Tver nobility assembly;architecture;Tver region;Tver;"(Decimal('33.241286'), Decimal('56.624455'))"
 Tver Compound;architecture;Moscow;Not found;"(Decimal('37.59719'), Decimal('55.630314'))"
-Театр &quot;Свободное пространство&quot;;architecture;Oryol Region;Eagle;Not found
 "Theater ""Golden Horn""";architecture;Primorsky Krai;Vladivostok;"(Decimal('131.927948'), Decimal('43.102708'))"
 Theater Lunacharsky;architecture;Sevastopol;Not found;"(Decimal('33.525198'), Decimal('44.610572'))"
 theatrical stairs;architecture;Nizhny Novgorod Region;Nizhny Novgorod;"(Decimal('44.006516'), Decimal('56.326797'))"
@@ -1474,7 +1464,6 @@ Manor Usty;architecture;Kaluga region;Usty;"(Decimal('34.959727'), Decimal('53.8
 Manor FI Langotskogo;architecture;Transbaikal region;Chita;"(Decimal('113.468467'), Decimal('52.140152'))"
 Manor Khvostov;architecture;Lipetsk region;Not found;"(Decimal('38.224106'), Decimal('52.359931'))"
 Manor Kholomki;architecture;Pskov region;Holomky;"(Decimal('29.666566'), Decimal('57.683419'))"
-Усадьба Чичериных &quot;Караул&quot;;architecture;Tambov Region;Sovyetsk;Not found
 Manor EF Filitts;architecture;Sverdlovsk region;Ekaterinburg;"(Decimal('60.844206'), Decimal('56.776769'))"
 Manor Yusupov;architecture;Belgorod region;Rokytne;"(Decimal('35.832871'), Decimal('50.83403'))"
 Manor Yanovsky in Kaluga;architecture;Kaluga region;Kaluga;"(Decimal('36.281544'), Decimal('54.575906'))"
@@ -1623,7 +1612,6 @@ Bratskiy garden;military glory;Astrakhan region;Astrakhan;"(Decimal('48.03555'),
 Brethren cemetery;military glory;Leningrad region;Not found;"(Decimal('30.586108'), Decimal('60.847614'))"
 Brethren cemetery;military glory;Sevastopol;Not found;"(Decimal('33.55743'), Decimal('44.636914'))"
 Armored boat AK-454;military glory;Perm;Permian;"(Decimal('56.229434'), Decimal('58.01045'))"
-Бронепоезд &quot;Тульский рабочий&quot;;military glory;Tula region;Tula;Not found
 Heroes Boulevard;military glory;Kemerovo region;Novokuznetsk;"(Decimal('87.146958'), Decimal('53.754731'))"
 Victory Boulevard;military glory;Astrakhan region;Astrakhan;"(Decimal('48.046007'), Decimal('46.369961'))"
 Victory Boulevard;military glory;Omsk region;Omsk;"(Decimal('73.382271'), Decimal('54.955076'))"
@@ -1649,7 +1637,6 @@ Military Medical Museum of the Russian Federation Ministry of Defense;military g
 "Naval History Museum ""Sea Shower""";military glory;Stavropol region;Kislovodsk;Not found
 Naval Museum of the Northern Fleet;military glory;Murmansk region;Murmansk;"(Decimal('33.092022'), Decimal('69.021014'))"
 "Naval Museum of the Northern Fleet; Memorial Complex ""Red Banner submarine"" K-21 """;military glory;Murmansk region;Severomorsk;Not found
-Военно-патриотический лагерь &quot;Честь имею&quot;;military glory;Sakhalin region;Not found;Not found
 "Military-patriotic recreation park of the Russian Federation ""Patriot"" Armed Forces";military glory;Moscow region;Cuban;"(Decimal('36.828268'), Decimal('55.571052'))"
 Military Technical Museum in Ivanovo;military glory;Moscow region;Borough Chernogolovka;Not found
 War memorial;military glory;Lipetsk region;Terbunı;"(Decimal('38.279963'), Decimal('52.147441'))"
@@ -1692,11 +1679,6 @@ Kurgan Military Glory in Kotelnikovo;military glory;Volgograd region;Котел�
 Lazarevski barracks;architecture;Sevastopol;Not found;"(Decimal('33.525369'), Decimal('44.616604'))"
 Malakoff;military glory;Sevastopol;Not found;"(Decimal('33.547881'), Decimal('44.604662'))"
 Mamayev Kurgan;military glory;Volgograd region;Volgograd;"(Decimal('44.533998'), Decimal('48.742644'))"
-Мемориал &quot;Вечный огонь славы&quot;;military glory;Novgorod region;Not found;Not found
-Мемориал &quot;Долина героев&quot;;military glory;The Republic of Karelia;Pitkyaranta;Not found
-Мемориал &quot;Катюша&quot;;military glory;Leningrad region;Not found;Not found
-Мемориал &quot;Скорбящий матрос&quot; в Нижнем Тортолово;military glory;Leningrad region;Not found;Not found
-Мемориал &quot;Тамбовский колхозник&quot;;military glory;Tambov Region;Tambov;Not found
 Memorial 25 komsomols;military glory;Leningrad region;Not found;Not found
 "Memorial ""Afghan Gate""";military glory;Penza region;Penza;"(Decimal('45.018316'), Decimal('53.195042'))"
 "Memorial ""Nameless Height""";military glory;Leningrad region;big rapids;"(Decimal('30.775195'), Decimal('59.773003'))"
@@ -1768,9 +1750,6 @@ A memorial to soldiers killed in the Great Patriotic War;military glory;Novosibi
 Memorial-park complex heroes of the First World War;military glory;Moscow;Not found;"(Decimal('37.51229'), Decimal('55.799644'))"
 Memorial Russian and German soldiers' cemetery in Rossoshka;architecture;Volgograd region;Not found;Not found
 "The memorial ""The leading edge of the Defense Minor Earth 1943""";military glory;Krasnodar region;Novorossiysk;Not found
-"Мемориальный комплекс &quot;Астрача; 1941&quot;";military glory;Leningrad region;ASTRACAM;Not found
-Мемориальный комплекс &quot;Высота Бессмертия&quot;;military glory;Rostov region;Belaya Kalitva;Not found
-Мемориальный комплекс &quot;Журавли&quot;;military glory;Penza region;Penza;"(Decimal('44.990172'), Decimal('53.212134'))"
 Memorial Complex 9 Heroes of the Soviet Union;military glory;Republic of Crimea;Geroyskoe;"(Decimal('33.746489'), Decimal('45.138086'))"
 "The memorial complex ""Avenue of Military Glory""";military glory;Astrakhan region;Astrakhan;"(Decimal('47.977834'), Decimal('46.418013'))"
 "The memorial complex ""Avenue of Heroes""";military glory;Republic of Kalmykia;Elista;"(Decimal('44.262186'), Decimal('46.306871'))"
@@ -1853,7 +1832,6 @@ Museum of Memory tagilchan soldiers killed in local wars planet;galleries;Sverdl
 "Museum-diorama ""The Battle of Kursk. Belgorod direction """;military glory;Belgorod region;Belgorod;"(Decimal('36.573083'), Decimal('50.612673'))"
 "Museum-panorama ""Battle of Stalingrad""";architecture;Volgograd region;Not found;Not found
 "Museum and Exhibition Complex ""bridgehead""";galleries;Kirov region;Not found;Not found
-Музейно-мемориальный комплекс музея-заповедника &quot;Куликово поле&quot; в Монастырщино;military glory;Tula region;Not found;Not found
 "Historical museum and memorial complex to the Heroic Defenders of Sevastopol ""35th Coastal Battery""";military glory;Sevastopol;Not found;Not found
 "Museum of historical and ethnographic complex ""Sokolovaya Mountain""";military glory;Saratov region;Saratov;"(Decimal('46.065653'), Decimal('51.556555'))"
 "The complex ""Kulikov Pole""";military glory;Tula region;Not found;"(Decimal('38.639981'), Decimal('53.63052'))"
@@ -1874,9 +1852,6 @@ Obelisk of the Civil War;military glory;Kemerovo region;Kemerovo;Not found
 Orlovsky Museum of Military History;galleries;Oryol Region;Eagle;"(Decimal('36.104441'), Decimal('52.974102'))"
 island Lyudnikov;architecture;Volgograd region;Not found;"(Decimal('44.151406'), Decimal('49.615821'))"
 Monument to the Fallen malgobekchanam during the Great Patriotic War;military glory;The Republic of Ingushetia;Malgobek;"(Decimal('44.590188'), Decimal('43.509645'))"
-Памятник &quot;Призрачная деревня&quot;;military glory;Leningrad region;Not found;Not found
-Памятник &quot;Танк Т-18&quot;;military glory;Khabarovsk region;Khabarovsk;Not found
-Памятник &quot;Танк Т-34&quot;;military glory;Khabarovsk region;Khabarovsk;Not found
 "Monument of the 1st Cavalry Army ""Tachanka-Rostovite""";military glory;Rostov region;Rostov-on-Don;"(Decimal('39.763136'), Decimal('47.250546'))"
 1200 Monument guards;military glory;Kaliningrad region;Kaliningrad;"(Decimal('20.512733'), Decimal('54.710454'))"
 Monument 85-millimeter anti-aircraft guns;military glory;Tula region;Tula;Not found
@@ -2031,15 +2006,12 @@ Monument Tula - Tula defenders during the Great Patriotic War;military glory;Tul
 Monument Tula - participants of the World War I;military glory;Tula region;Tula;Not found
 "Monument to the crew of the mine layer ""Nikolai Ostrovsky""";military glory;Krasnodar region;Tuapse;"(Decimal('39.073553'), Decimal('44.09564'))"
 Monument dedicated to the fallen in the Great Patriotic War;military glory;Penza region;Çaadaevka;"(Decimal('45.967206'), Decimal('53.113152'))"
-Памятник-захоронение &quot;Погибшим в пути&quot;;military glory;Leningrad region;Not found;Not found
-Памятник-мемориал &quot;Воинам-разведчикам&quot;;military glory;Kaliningrad region;Not found;Not found
 "Monument-memorial ""Black Tulip"" at the Square of Fame";military glory;Khabarovsk region;Khabarovsk;"(Decimal('135.071917'), Decimal('48.480223'))"
 "Monument locomotive; working on ""Road of Life""";military glory;Leningrad region;Not found;Not found
 "Monument rotunda ""Volgodonsk who died for their country""";military glory;Rostov region;Volgodonsk;Not found
 "The memorial stele ""Soldiers-liberators of Rostov-on-Don from Nazi invaders""";military glory;Rostov region;Rostov-on-Don;"(Decimal('39.720349'), Decimal('47.222078'))"
 Monuments to heroes of the front and rear;military glory;Magadan Region;Magadan;Not found
 Commemorative Badge pilots - the first Heroes of the Soviet Union during the Great Patriotic War;military glory;Pskov region;Pskov;"(Decimal('28.332451'), Decimal('57.819274'))"
-Памятный знак &quot;Балтийские крылья&quot;.;military glory;Leningrad region;Not found;Not found
 "Memorial sign ""122mm howitzer""";military glory;Tula region;Tula;Not found
 "The memorial sign ""All murdered by the grateful living""";military glory;Yamalo-Nenets Autonomous Okrug;Muravlenko;"(Decimal('74.494448'), Decimal('63.795285'))"
 "The memorial sign ""Defenders of the Fatherland""";military glory;Lipetsk region;Lipetsk;Not found
@@ -2049,7 +2021,6 @@ The memorial sign in honor of guerrilla groups MI Badin and N. Lavrentiev;milita
 The memorial sign in honor of Soviet soldiers participating in the battles Khalkhin Gol Lake Khasan;military glory;Volgograd region;Volgograd;"(Decimal('44.516948'), Decimal('48.707067'))"
 The memorial sign Hungarian prisoners of war;military glory;Leningrad region;podporozhye;Not found
 The memorial sign counterattack by Soltsy in July 1941;military glory;Novgorod region;Not found;Not found
-Памятный знак летчикам авиаполка &quot;Нормандия-Неман&quot;;military glory;Kaliningrad region;Not found;Not found
 Memorial sign to sailors of the Baltic;military glory;Kaliningrad region;Not found;Not found
 The memorial sign at the site of the front edge of the defense of Tula;military glory;Tula region;Not found;"(Decimal('37.575693'), Decimal('53.888064'))"
 The memorial sign at the site feat political instructor Barsukov;military glory;Novgorod region;Spasskaya Polist;"(Decimal('31.512873'), Decimal('58.923821'))"
@@ -2193,7 +2164,6 @@ Large iron book;"Monuments; sculptures; memorials";Novosibirsk region;Novosibirs
 Mass grave torpedo boats sailors who died in the battles against the Nazi invaders;"Monuments; sculptures; memorials";Krasnodar region;Gelendzhik;Not found
 Armored boat AK-454;military glory;Perm;Permian;"(Decimal('56.229434'), Decimal('58.01045'))"
 Armored boat BC-13;"Monuments; sculptures; memorials";Volgograd region;Volgograd;"(Decimal('44.516948'), Decimal('48.707067'))"
-Бронепоезд &quot;Тульский рабочий&quot;;military glory;Tula region;Tula;Not found
 The bronze monument to Buyan Badyrgy;"Monuments; sculptures; memorials";Tyva Republic;red;"(Decimal('94.437757'), Decimal('51.719086'))"
 Buddha Peace;"Monuments; sculptures; memorials";Primorsky Krai;Vladivostok;"(Decimal('131.948618'), Decimal('43.108178'))"
 Bust AG Nikolaev;"Monuments; sculptures; memorials";Smolensk region;Smolensk;"(Decimal('32.045251'), Decimal('54.782635'))"
@@ -2266,8 +2236,6 @@ Gnezdilovskaya height;"Monuments; sculptures; memorials";Kaluga region;Gnezdilov
 Goncharovskiy gazebo in Ulyanovsk;"Monuments; sculptures; memorials";Ulyanovsk region;Not found;Not found
 "High relief ""School of the barricades""";"Monuments; sculptures; memorials";Nizhny Novgorod Region;Nizhny Novgorod;"(Decimal('43.868086'), Decimal('56.35752'))"
 High relief IP Kulibina;"Monuments; sculptures; memorials";Nizhny Novgorod Region;Nizhny Novgorod;"(Decimal('43.987301'), Decimal('56.305719'))"
-Городская скульптура &quot;Ижик&quot;;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
-Городская скульптура &quot;Пельмень&quot;;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
 City Memorial Complex;"Monuments; sculptures; memorials";Moscow region;electric steel;"(Decimal('38.444849'), Decimal('55.784445'))"
 State Museum of GK Zhukov;"Monuments; sculptures; memorials";Kaluga region;Zhukov;"(Decimal('36.718529'), Decimal('55.021333'))"
 "Group graves ""family Esfendiyarov""";Cemeteries and graveyards;The Republic of Dagestan;Derbent;Not found
@@ -2293,10 +2261,8 @@ Building religious school;"Monuments; sculptures; memorials";Belgorod region;lon
 Primary school building 501st construction;"Monuments; sculptures; memorials";Yamalo-Nenets Autonomous Okrug;Salekhard;Not found
 green sculpture;"Monuments; sculptures; memorials";Krasnoyarsk region;Not found;"(Decimal('111.836112'), Decimal('75.588603'))"
 snake pit;"Monuments; sculptures; memorials";Altai region;Belokurikha;"(Decimal('84.984004'), Decimal('51.99606'))"
-Знак &quot;Нулевой километр&quot;;"Monuments; sculptures; memorials";Kurgan region;Mound;Not found
 Gold alley in Kaluga;"Gardens; squares; parks";Kaluga region;Kaluga;"(Decimal('36.167539'), Decimal('54.53284'))"
 Statue of Queen Sai-Suu;"Monuments; sculptures; memorials";Tyva Republic;Bijiktig Cast;"(Decimal('90.63659'), Decimal('51.10269'))"
-Ироническая скульптура &quot;Ижевский крокодил&quot;;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
 Historical and cultural complex Usan-Lopson;"Monuments; sculptures; memorials";The Republic of Buryatia;Not found;Not found
 Historical Reserve-mill ruins them. KN Grudinina;"Monuments; sculptures; memorials";Volgograd region;Not found;Not found
 "Historical complex of the first oil field ""Dry Forest""";"Monuments; sculptures; memorials";Khanty-Mansi Autonomous Area;Nyagan;"(Decimal('64.625601'), Decimal('60.182717'))"
@@ -2335,9 +2301,6 @@ Maket aircraft Su-2;"Monuments; sculptures; memorials";Volgograd region;Volgogra
 "Small architectural form ""Samovar""";"Monuments; sculptures; memorials";Perm;Kungur;"(Decimal('56.944206'), Decimal('57.42881'))"
 Masks of lions on the Spit of Vasilyevsky Island;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;"(Decimal('30.276243'), Decimal('59.942137'))"
 Bronze Horseman;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;"(Decimal('30.30216'), Decimal('59.937418'))"
-Мемориал &quot;Долина героев&quot;;military glory;The Republic of Karelia;Pitkyaranta;Not found
-Мемориал &quot;Скорбящий матрос&quot; в Нижнем Тортолово;military glory;Leningrad region;Not found;Not found
-Мемориал &quot;Тамбовский колхозник&quot;;military glory;Tambov Region;Tambov;Not found
 Memorial 25 komsomols;military glory;Leningrad region;Not found;Not found
 400 Memorial anniversary of Eagle;"Monuments; sculptures; memorials";Oryol Region;Eagle;"(Decimal('36.063837'), Decimal('52.970371'))"
 "Memorial ""Nameless Height""";military glory;Leningrad region;big rapids;"(Decimal('30.775195'), Decimal('59.773003'))"
@@ -2419,7 +2382,6 @@ Plaque border guard AD Garkavy;"Monuments; sculptures; memorials";St. Petersburg
 Plaque border guard AD Garkavy;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;Not found
 A plaque with a bas-relief of Lenin;"Monuments; sculptures; memorials";Pskov region;Pskov;"(Decimal('28.336897'), Decimal('57.817649'))"
 Memorial stone obelisk countrymen who fell in the Great Patriotic War of 1941-1945.;"Monuments; sculptures; memorials";Moscow region;large Gridino;"(Decimal('39.412846'), Decimal('55.432061'))"
-Мемориальный комплекс &quot;Красная Талка&quot;;"Monuments; sculptures; memorials";Ivanovo region;Ivanovo;"(Decimal('41.002541'), Decimal('57.011734'))"
 "Memorial Complex ""In memory of those killed June 4; 1988";"Monuments; sculptures; memorials";Nizhny Novgorod Region;Arzamas;Not found
 "Memorial Complex ""City of Angels""";"Monuments; sculptures; memorials";Republic of North Ossetia - Alania;Beslan;"(Decimal('44.565852'), Decimal('43.191526'))"
 "The memorial complex ""The Don Cossacks in the struggle with the Bolsheviks""";military glory;Rostov region;Not found;Not found
@@ -2460,8 +2422,6 @@ Model engine Cherepanovs Barnaul;"Monuments; sculptures; memorials";Altai region
 Model engine Cherepanovs Novoaltaisk;"Monuments; sculptures; memorials";Altai region;Novoaltaisk;"(Decimal('83.934942'), Decimal('53.386814'))"
 Model engine Cherepanovs station Altaiskaya;"Monuments; sculptures; memorials";Altai region;Novoaltaisk;"(Decimal('83.93107'), Decimal('53.412021'))"
 Mosaic on the Elista station building;"Monuments; sculptures; memorials";Republic of Kalmykia;Elista;"(Decimal('44.269759'), Decimal('46.307743'))"
-Монумент &quot;Глобус&quot;;"Monuments; sculptures; memorials";Penza region;Penza;Not found
-Монумент &quot;Навеки с Россией&quot;;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
 The monument to the 600th anniversary of Kaluga;"Monuments; sculptures; memorials";Kaluga region;Kaluga;"(Decimal('36.178049'), Decimal('54.455035'))"
 "Monument ""Bronze symbol of Ugra""";"Monuments; sculptures; memorials";Khanty-Mansi Autonomous Area;Khanty-Mansiysk;"(Decimal('69.012937'), Decimal('61.007929'))"
 "The monument ""Eternal memory of Ugra soldiers"" - a monument to those killed in local conflicts";"Monuments; sculptures; memorials";Khanty-Mansi Autonomous Area;Khanty-Mansiysk;"(Decimal('69.018902'), Decimal('61.00318'))"
@@ -2503,7 +2463,6 @@ Monument to Marshal Zhukov;"Monuments; sculptures; memorials";Irkutsk region;Irk
 Monument to the discoverers of diamond deposits;"Monuments; sculptures; memorials";The Republic of Sakha (Yakutia);Peaceful;Not found
 monument sinker;"Monuments; sculptures; memorials";The Republic of Buryatia;Severobaikalsk;"(Decimal('109.335597'), Decimal('55.635996'))"
 Monument of Russian-Japanese relations;"Monuments; sculptures; memorials";Irkutsk region;Irkutsk;"(Decimal('104.281047'), Decimal('52.287054'))"
-Монумент&quot;Волга&quot;;"Monuments; sculptures; memorials";Yaroslavskaya oblast;Not found;Not found
 "Monument dedicated to the Revolution; 1905-1907";"Monuments; sculptures; memorials";Moscow;Not found;Not found
 "Monument monument ""valorous Don Cossacks""";"Monuments; sculptures; memorials";Volgograd region;Not found;Not found
 "Monumental art composition ""Atmosphere""";"Monuments; sculptures; memorials";Khanty-Mansi Autonomous Area;Khanty-Mansiysk;"(Decimal('69.018902'), Decimal('61.00318'))"
@@ -2520,7 +2479,6 @@ Major Kovalyov's nose;"Monuments; sculptures; memorials";St. Petersburg;St. Pete
 Zero kilometer;"Monuments; sculptures; memorials";Altai region;Barnaul;"(Decimal('79.248817'), Decimal('52.648237'))"
 Zero kilometer roads of Volgograd region;"Monuments; sculptures; memorials";Volgograd region;Volgograd;"(Decimal('44.516427'), Decimal('48.736714'))"
 Kazan zero meridian;"Monuments; sculptures; memorials";Republic of Tatarstan;Kazan;"(Decimal('49.083202'), Decimal('55.817249'))"
-Обелиск &quot;Европа-Азия&quot;;"Monuments; sculptures; memorials";Perm;fishing;Not found
 "Obelisk ""hero city Leningrad""";"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;"(Decimal('30.315868'), Decimal('59.939095'))"
 "Obelisk ""The border of Europe and Asia""";"Monuments; sculptures; memorials";Sverdlovsk region;Kurganova;Not found
 "Obelisk ""Border Guards of the Fatherland"" and the sculpture ""The border guard with a dog""";"Monuments; sculptures; memorials";Voronezh region;Rossosh;"(Decimal('39.57652'), Decimal('50.192899'))"
@@ -2547,17 +2505,6 @@ Monument;"Monuments; sculptures; memorials";Kurgan region;Mound;"(Decimal('65.34
 "Monument ""Sail""";"Monuments; sculptures; memorials";Novgorod region;Novgorod;"(Decimal('31.269915'), Decimal('58.52281'))"
 Monument to V. Tatischev;"Monuments; sculptures; memorials";Samara Region;Not found;"(Decimal('49.266009'), Decimal('53.079622'))"
 Monument to the Fallen malgobekchanam during the Great Patriotic War;military glory;The Republic of Ingushetia;Malgobek;"(Decimal('44.590188'), Decimal('43.509645'))"
-Памятник &quot;Дружба навеки&quot;;"Monuments; sculptures; memorials";Moscow;Not found;Not found
-"Памятник &quot;Землякам-ловозерцам; погибшим в Великой Отечественной войне&quot;";"Monuments; sculptures; memorials";Murmansk region;Lovozero;Not found
-Памятник &quot;Казачья слава&quot;;"Monuments; sculptures; memorials";Volgograd region;Volgograd;Not found
-Памятник &quot;Князю Владимиру&quot;;"Monuments; sculptures; memorials";Belgorod region;Belgorod;Not found
-Памятник &quot;Первооткрывателям Волжского&quot;;"Monuments; sculptures; memorials";Volgograd region;Volzhsky;Not found
-Памятник &quot;Преклоненный Серафим&quot;;"Monuments; sculptures; memorials";Kursk region;Not found;Not found
-Памятник &quot;Призрачная деревня&quot;;military glory;Leningrad region;Not found;Not found
-Памятник &quot;Рериху – от народа Алтая&quot;;"Monuments; sculptures; memorials";Altai region;Not found;Not found
-Памятник &quot;Танк Т-18&quot;;military glory;Khabarovsk region;Khabarovsk;Not found
-Памятник &quot;Танк Т-34&quot;;military glory;Khabarovsk region;Khabarovsk;Not found
-Памятник &quot;Чайка&quot;;"Monuments; sculptures; memorials";Altai region;Not found;Not found
 "Monument of the 1st Cavalry Army ""Tachanka-Rostovite""";military glory;Rostov region;Rostov-on-Don;"(Decimal('39.763136'), Decimal('47.250546'))"
 Monument 100 anniversary electric lighting Vologda;"Monuments; sculptures; memorials";Vologda Region;Vologda;Not found
 Monument to the 1000 anniversary of Yaroslavl;"Monuments; sculptures; memorials";Yaroslavskaya oblast;Yaroslavl;"(Decimal('39.871392'), Decimal('57.617295'))"
@@ -3173,7 +3120,6 @@ Monument EP Baklanov;"Monuments; sculptures; memorials";Rostov region;Novocherka
 Monument YV Dyachenko;"Monuments; sculptures; memorials";Khabarovsk region;Khabarovsk;"(Decimal('135.053726'), Decimal('48.474053'))"
 Monument JP Garelina;"Monuments; sculptures; memorials";Ivanovo region;Ivanovo;"(Decimal('40.973921'), Decimal('57.000348'))"
 Monument Yak-7B;"Monuments; sculptures; memorials";Nenets Autonomous Okrug;Naryan-Mar;Not found
-Памятник автомобилистам  Великой Отечественной войны &quot;ЗИС-5&quot;;"Monuments; sculptures; memorials";Volgograd region;Volgograd;Not found
 Monument to Admiral MP Lazarus;"Monuments; sculptures; memorials";Krasnodar region;Novorossiysk;"(Decimal('37.768974'), Decimal('44.723912'))"
 Monument to Admiral Makarov;"Monuments; sculptures; memorials";Primorsky Krai;Vladivostok;"(Decimal('131.885485'), Decimal('43.115536'))"
 Monument to Admiral NG Kuznetsov in Arkhangelsk;military glory;Arhangelsk region;Arkhangelsk;Not found
@@ -3263,7 +3209,6 @@ Monument to the heroes of World War I.;"Monuments; sculptures; memorials";Pskov 
 Monument to the heroes and victims of the 1905 revolution;"Monuments; sculptures; memorials";Nizhny Novgorod Region;Nizhny Novgorod;Not found
 "Monument to the heroes of peacetime; fire and rescue workers";"Monuments; sculptures; memorials";Novosibirsk region;Novosibirsk;"(Decimal('82.92043'), Decimal('55.030199'))"
 Monument to the Heroes of Defense Tsaritsyn red;architecture;Volgograd region;Not found;Not found
-Памятник героям рассказа М.А. Шолохова &quot;Судьба человека&quot;;"Monuments; sculptures; memorials";Volgograd region;Uryupinsk;Not found
 Monument to the heroes of the Russian-Japanese War;military glory;Primorsky Krai;Vladivostok;Not found
 "Monument to the heroes of the fairy tale ""The Wizard of Oz""";"Monuments; sculptures; memorials";Tomsk region;Tomsk;"(Decimal('84.947649'), Decimal('56.48464'))"
 Monument to the heroes who fell in the battles for the Motherland;military glory;Pskov region;Island-Zalit;"(Decimal('28.06999'), Decimal('58.012395'))"
@@ -3355,7 +3300,6 @@ monument Conca;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;
 monument horse;"Monuments; sculptures; memorials";Voronezh region;Not found;"(Decimal('41.195715'), Decimal('51.155806'))"
 Monument horse Aesir-Kara;"Monuments; sculptures; memorials";Tyva Republic;Ak-Erik;"(Decimal('94.617025'), Decimal('50.51459'))"
 Monument shipbuilders Solombalskaya shipyard;"Monuments; sculptures; memorials";Arhangelsk region;Arkhangelsk;"(Decimal('40.50465'), Decimal('64.590781'))"
-Памятник кораблю &quot;Полтава&quot;;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;Not found
 Sightseeing коробейнику;"Monuments; sculptures; memorials";Sverdlovsk region;Ekaterinburg;"(Decimal('60.597465'), Decimal('56.838011'))"
 Monument to Queen Luise;"Monuments; sculptures; memorials";Kaliningrad region;Sovetsk;"(Decimal('21.888647'), Decimal('55.081029'))"
 "Monument spacecraft ""Energia-Buran""";"Monuments; sculptures; memorials";Samara Region;Samara;Not found
@@ -3392,7 +3336,6 @@ Monument navigator Vitus Bering;"Monuments; sculptures; memorials";Kamchatka Kra
 "Monument to seafarers; explorers and discoverers of new lands";"Monuments; sculptures; memorials";Vologda Region;Totma;"(Decimal('42.758873'), Decimal('59.973487'))"
 monument to the sailors;"Monuments; sculptures; memorials";Volgograd region;Uryupinsk;"(Decimal('42.015194'), Decimal('50.799754'))"
 Monument merchant seamen;"Monuments; sculptures; memorials";Primorsky Krai;Vladivostok;Not found
-Памятник морякам волжской флотилии &quot;Маяк&quot;;"Monuments; sculptures; memorials";Volgograd region;Volgograd;Not found
 Monument to the sailors and ships Ladoga Flotilla;military glory;Leningrad region;Not found;"(Decimal('29.608975'), Decimal('59.337013'))"
 Monument to the sailors-amurtsam who died during the Great Patriotic War;military glory;Khabarovsk region;Khabarovsk;"(Decimal('135.071917'), Decimal('48.480223'))"
 Monument to the sailors-katernikam;military glory;Primorsky Krai;Vladivostok;"(Decimal('131.885485'), Decimal('43.115536'))"
@@ -3610,9 +3553,7 @@ Monument-bust EM Kungurtseva;"Monuments; sculptures; memorials";Udmurt republic;
 Monument-bust of Peter I;"Monuments; sculptures; memorials";Leningrad region;Not found;"(Decimal('31.608301'), Decimal('60.103903'))"
 Monument-bust of JA Gagarin;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;"(Decimal('53.288072'), Decimal('56.850019'))"
 "Monument helicopter ""MI-4""";"Monuments; sculptures; memorials";Khanty-Mansi Autonomous Area;Nyagan;"(Decimal('64.803216'), Decimal('60.128951'))"
-Памятник-захоронение &quot;Погибшим в пути&quot;;military glory;Leningrad region;Not found;Not found
 Monument piggy homeless animals;"Monuments; sculptures; memorials";Kirov region;Kirov;"(Decimal('49.668014'), Decimal('58.603591'))"
-Памятник-мемориал &quot;Воинам-разведчикам&quot;;military glory;Kaliningrad region;Not found;Not found
 "Monument-memorial ""Black Tulip"" at the Square of Fame";military glory;Khabarovsk region;Khabarovsk;"(Decimal('135.071917'), Decimal('48.480223'))"
 Memorial Monument to the Heroes of the Civil War;"Monuments; sculptures; memorials";Novosibirsk region;Not found;Not found
 "Monument obelisk ""Soldiers kirovchanam""";"Monuments; sculptures; memorials";Kirov region;Kirov;"(Decimal('49.668014'), Decimal('58.603591'))"
@@ -3632,7 +3573,6 @@ Memorial Chapel;"Monuments; sculptures; memorials";Kamchatka Krai;Petropavlovsk-
 Monuments to heroes of the front and rear;military glory;Magadan Region;Magadan;Not found
 Monument to Ostap Bender;"Monuments; sculptures; memorials";Republic of Kalmykia;Elista;"(Decimal('44.269759'), Decimal('46.307743'))"
 Monument to Peter I near the Mikhailovsky Castle;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;Not found
-Памятный знак &quot;Балтийские крылья&quot;.;military glory;Leningrad region;Not found;Not found
 Memorial sign 850 anniversary Eltsa;"Monuments; sculptures; memorials";Lipetsk region;Dace;Not found
 "The memorial sign ""400 years Arkhangelsk""";"Monuments; sculptures; memorials";Arhangelsk region;Arkhangelsk;Not found
 "The memorial sign ""White hat""";"Monuments; sculptures; memorials";Krasnodar region;Anapa;Not found
@@ -3669,7 +3609,6 @@ The memorial sign to soldiers of the Western and Kalinin Fronts;"Monuments; scul
 The memorial sign heroes of the First World War;"Monuments; sculptures; memorials";Rostov region;mine;"(Decimal('40.215797'), Decimal('47.709601'))"
 The memorial sign zabaykaltsam who died in the war in Afghanistan;"Monuments; sculptures; memorials";Transbaikal region;Chita;"(Decimal('113.501049'), Decimal('52.033635'))"
 "The memorial sign icebreaker ""Ermak""";"Monuments; sculptures; memorials";Murmansk region;Murmansk;Not found
-Памятный знак летчикам авиаполка &quot;Нормандия-Неман&quot;;military glory;Kaliningrad region;Not found;Not found
 Memorial sign to sailors of the Baltic;military glory;Kaliningrad region;Not found;Not found
 "The memorial sign at the site of the crash May 9; 1993";"Monuments; sculptures; memorials";Sverdlovsk region;Nizhny Tagil;Not found
 The memorial sign at the site of the front edge of the defense of Tula;military glory;Tula region;Not found;"(Decimal('37.575693'), Decimal('53.888064'))"
@@ -3690,7 +3629,6 @@ Ceremonial Gate Volgograd;"Monuments; sculptures; memorials";Volgograd region;Vo
 Victory Park;"Gardens; squares; parks";Yamalo-Nenets Autonomous Okrug;Salekhard;"(Decimal('66.606368'), Decimal('66.545298'))"
 sculpture Park;"Monuments; sculptures; memorials";Irkutsk region;Irkutsk;"(Decimal('104.281047'), Decimal('52.287054'))"
 "Park sculpture ""dynamic equilibrium""";"Monuments; sculptures; memorials";Omsk region;Omsk;"(Decimal('73.362184'), Decimal('54.919606'))"
-Паровоз &quot;Феликс Дзержинский&quot;;"Monuments; sculptures; memorials";Kurgan region;Mound;Not found
 Locomotive E-269;"Monuments; sculptures; memorials";Primorsky Krai;Ussuriisk;"(Decimal('131.95178'), Decimal('43.797273'))"
 Steam locomotive ER-743-64;monuments Railways;Volgograd region;Volgograd;"(Decimal('44.516948'), Decimal('48.707067'))"
 The locomotive of the hero of socialist labor PD Sholkin;"Monuments; sculptures; memorials";Novosibirsk region;Novosibirsk;"(Decimal('83.120817'), Decimal('54.95766'))"
@@ -3734,15 +3672,6 @@ Square Conquerors Atom;"Gardens; squares; parks";Novosibirsk region;Novosibirsk;
 Square locomotive depot train station Gorky;"Monuments; sculptures; memorials";Volgograd region;Volgograd;"(Decimal('44.328598'), Decimal('48.686599'))"
 Square Soviet sculpture of the Philharmonic;"Monuments; sculptures; memorials";Smolensk region;Smolensk;"(Decimal('32.045251'), Decimal('54.782635'))"
 Burial vaults Nart Soslan;"Monuments; sculptures; memorials";Republic of North Ossetia - Alania;Matsuta;Not found
-Скульптура &quot;Дачница&quot;;"Monuments; sculptures; memorials";Ivanovo region;Dance;Not found
-Скульптура &quot;Коза&quot; в парке &quot;Берёзовая роща&quot;;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
-Скульптура &quot;Модель автомобиля Itala&quot;;"Monuments; sculptures; memorials";Kirov region;Kirov;Not found
-Скульптура &quot;Олень&quot;;"Monuments; sculptures; memorials";Smolensk region;Smolensk;Not found
-Скульптура &quot;Памятник оружейникам Удмуртии&quot;;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
-Скульптура &quot;Проложившим дорогу в космос&quot; (собаке-космонавту Звёздочке);"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
-Скульптура &quot;Родители&quot;;"Monuments; sculptures; memorials";Kurgan region;Mound;Not found
-Скульптура &quot;Самая северная точка озера Байкал&quot;;"Monuments; sculptures; memorials";The Republic of Buryatia;Not found;Not found
-Скульптура &quot;Тарбаганнар&quot;;"Monuments; sculptures; memorials";Tyva Republic;Mugur-Aksy;Not found
 "The sculpture ""Adam and Eve""";"Monuments; sculptures; memorials";Kemerovo region;Prokopevsk;Not found
 "The sculpture ""Stork""";"Monuments; sculptures; memorials";Transbaikal region;Chita;"(Decimal('113.501049'), Decimal('52.033635'))"
 "The sculpture ""Angel uniform of Hope""";"Monuments; sculptures; memorials";Sverdlovsk region;Bazhukovo;Not found
@@ -3843,7 +3772,6 @@ deer sculpture;"Monuments; sculptures; memorials";Nizhny Novgorod Region;Nizhny 
 Sculpture of three playwrights;"Monuments; sculptures; memorials";Irkutsk region;Cheremhovo;"(Decimal('103.090096'), Decimal('53.136911'))"
 Sculpture dedicated to MP Smirnova;"Monuments; sculptures; memorials";Penza region;hillfort;Not found
 "Sculpture fountain ""giving water""";"Monuments; sculptures; memorials";Krasnodar region;Novorossiysk;"(Decimal('37.768974'), Decimal('44.723912'))"
-Скульптурная группа &quot;Октябрь&quot;;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;Not found
 "The sculptural group ""unflappable cat""";"Monuments; sculptures; memorials";Amur region;Blagoveshchensk;Not found
 "The sculptural group ""The founders of the city of Khanty-Mansiysk""";"Monuments; sculptures; memorials";Khanty-Mansi Autonomous Area;Khanty-Mansiysk;Not found
 "The sculptural group ""Family""";"Monuments; sculptures; memorials";The Republic of Mordovia;Saransk;"(Decimal('45.183938'), Decimal('54.187433'))"
@@ -3853,8 +3781,6 @@ Sculptural group of the Holy brothers Cyril and Methodius;"Monuments; sculptures
 sculpture;"Monuments; sculptures; memorials";Kurgan region;Not found;"(Decimal('64.809405'), Decimal('55.448347'))"
 "Sculpture ""Gregory and Aksinia""";"Monuments; sculptures; memorials";Rostov region;Veshenskaya;Not found
 "Sculpture ""Korchagin campaign continues""";military glory;Rostov region;Volgodonsk;Not found
-Скульптурная композиция &quot;Святые благоверные  Петр и Феврония Муромские&quot;;"Monuments; sculptures; memorials";Tula region;Tula;Not found
-Скульптурная композиция &quot;Святые благоверные Петр и Феврония Муромские&quot;;"Monuments; sculptures; memorials";Udmurt republic;Izhevsk;Not found
 "Sculpture ""AP Chekhov """;"Monuments; sculptures; memorials";Tomsk region;Tomsk;Not found
 "Sculpture ""Stork. Birth of happiness """;"Monuments; sculptures; memorials";Omsk region;Omsk;Not found
 "Sculpture ""guardian angel""";"Monuments; sculptures; memorials";Novosibirsk region;Novosibirsk;"(Decimal('82.92043'), Decimal('55.030199'))"
@@ -3947,7 +3873,6 @@ Statue of Buddha Shakyamuni;"Monuments; sculptures; memorials";Republic of Kalmy
 Statue of Sakyamuni Buddha in the village Ketchenery;"Monuments; sculptures; memorials";Republic of Kalmykia;Ketchenery;"(Decimal('44.520155'), Decimal('47.307694'))"
 Statue of the Bull;"Monuments; sculptures; memorials";The Republic of Sakha (Yakutia);Yakutsk;"(Decimal('129.732178'), Decimal('62.027216'))"
 stele;"Monuments; sculptures; memorials";Yamalo-Nenets Autonomous Okrug;Aksarka;"(Decimal('67.804802'), Decimal('66.558044'))"
-Стела &quot;Лора&quot;;"Monuments; sculptures; memorials";The Republic of Khakassia;Not found;Not found
 "Stela ""100 years of Altai railroad""";"Monuments; sculptures; memorials";Altai region;Barnaul;"(Decimal('83.776856'), Decimal('53.346785'))"
 "Stela ""66 Parallel""";"Monuments; sculptures; memorials";Yamalo-Nenets Autonomous Okrug;Salekhard;"(Decimal('66.614399'), Decimal('66.529844'))"
 "Stela ""Arkhangelsk 1584-1984""";"Monuments; sculptures; memorials";Arhangelsk region;Arkhangelsk;"(Decimal('40.515753'), Decimal('64.539911'))"
@@ -3972,7 +3897,6 @@ The Steadfast Tin Soldier;"Monuments; sculptures; memorials";Leningrad region;Pi
 Stremilovsky line of defense of Moscow;"Monuments; sculptures; memorials";Moscow region;Leonovo;"(Decimal('37.077541'), Decimal('55.118122'))"
 Sphinxes in the yard of Stroganov Palace;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;"(Decimal('30.248045'), Decimal('59.941425'))"
 Quay with Sphinxes;"Monuments; sculptures; memorials";St. Petersburg;St. Petersburg;"(Decimal('30.426442'), Decimal('59.902984'))"
-"Танк &quot;Т-70&quot;; первым с боем ворвавшийся в Калач-на-Дону";"Monuments; sculptures; memorials";Volgograd region;Kalach-on-Don;Not found
 "Tank ""Motherland""";"Monuments; sculptures; memorials";Moscow region;Boilermakers;"(Decimal('37.863199'), Decimal('55.65984'))"
 T-34;military glory;Pskov region;great Luke;"(Decimal('30.521969'), Decimal('56.342316'))"
 T-34;military glory;Tula region;Tula;"(Decimal('37.617348'), Decimal('54.193122'))"
@@ -4101,7 +4025,6 @@ Gnezdovo;archaeological sites;Smolensk region;Gnezdovo;"(Decimal('31.863863'), D
 Forest Baga-Zarya;archaeological sites;The Republic of Buryatia;Not found;"(Decimal('105.254254'), Decimal('51.309348'))"
 Mount Kulayka (Kulayskoe place of worship);archaeological sites;Tomsk region;Podgornoe;"(Decimal('82.274253'), Decimal('57.521783'))"
 forest Mithridates;archaeological sites;Republic of Crimea;Kerch;"(Decimal('36.467378'), Decimal('45.356219'))"
-Городище &quot;Усольская осада&quot;;archaeological sites;Kostroma region;Soligalich;Not found
 hillfort Artezian;archaeological sites;Republic of Crimea;Kerch;"(Decimal('36.467378'), Decimal('45.356219'))"
 hillfort Voronich;archaeological sites;Pskov region;Voronich;"(Decimal('28.879013'), Decimal('57.052751'))"
 Hillfort Mount St. John of Rila;archaeological sites;Kursk region;Gorno;"(Decimal('34.172695'), Decimal('51.647303'))"
@@ -4303,7 +4226,6 @@ Voronezh Theological Seminary;places of pilgrimage;Voronezh region;Not found;"(D
 mountain Ahulgo;The mountains;The Republic of Dagestan;Not found;"(Decimal('47.312721'), Decimal('41.842953'))"
 "Golden Buddha in datsan ""Rinpoche Bagsha""";places of pilgrimage;The Republic of Buryatia;Ulan-Ude;"(Decimal('107.584574'), Decimal('51.834464'))"
 Ilyinsky temple;places of pilgrimage;Moscow region;Sergiev Posad;"(Decimal('38.135963'), Decimal('56.315311'))"
-Камень &quot;Божий след&quot;;places of pilgrimage;Yaroslavskaya oblast;Dubrovo;Not found
 The cell of Father Nikolai Guryanov;places of pilgrimage;Pskov region;Island-Zalit;Not found
 Place of Our Lady of the phenomenon in the Omsk region;places of pilgrimage;Omsk region;Tambovka;Not found
 Tomb father Nicholas Guryanov (Zalitskogo);places of pilgrimage;Pskov region;Island-Zalit;Not found
@@ -4313,7 +4235,6 @@ Worship cross elder Nicholas Guryanov;places of pilgrimage;Pskov region;Island-Z
 Forgiveness well;places of pilgrimage;Lipetsk region;Sagittarius;"(Decimal('38.217728'), Decimal('52.409814'))"
 Spring of Our Lady of Kazan;places of pilgrimage;Kostroma region;Not found;"(Decimal('40.96995'), Decimal('57.888253'))"
 Holy Trinity Cathedral in the village Menyusha;Orthodox churches;Novgorod region;Menyusha;Not found
-Святой источник &quot;Вавилов Дол&quot;;places of pilgrimage;Saratov region;Ivanteevka;Not found
 "Holy Spring ""Batin Key""";places of pilgrimage;Kostroma region;Noskov;"(Decimal('45.603874'), Decimal('59.071255'))"
 "Holy source ""flow""";places of pilgrimage;Kostroma region;Shemyatino;"(Decimal('40.667532'), Decimal('57.385674'))"
 "Holy spring Macarius Zheltovodskogo; Unzhensky";places of pilgrimage;Kostroma region;Makar'ev;Not found
@@ -4462,7 +4383,6 @@ Archangel Michael Monastery;monasteries;Vologda Region;great Ustyug;"(Decimal('4
 St. Michael Pokrovsky Monastery;monasteries;Ryazan Oblast;Mikhailov;"(Decimal('39.023508'), Decimal('54.232506'))"
 Mogilev Assumption Monastery;monasteries;Tver region;Mogilevka;"(Decimal('37.049837'), Decimal('56.770204'))"
 Monasteries Ryazan region;monasteries;Ryazan Oblast;Not found;"(Decimal('40.950331'), Decimal('54.559725'))"
-Монастырь &quot;Труд и молитва&quot; в Рамешковском районе Тверской области;monasteries;Tver region;Not found;Not found
 Resurrection monastery;monasteries;Kostroma region;Soligalich;"(Decimal('42.285973'), Decimal('59.077591'))"
 Monastery Reigning Mother of God;monasteries;Kaliningrad region;Izobilnoye;Not found
 Monastery of St. John the Baptist;monasteries;Smolensk region;Not found;Not found
@@ -4882,8 +4802,6 @@ Memorial Museum-Estate of Academician IP Pavlova;galleries;Ryazan Oblast;Ryazan;
 Mihalkovo;Granges;Moscow;Not found;"(Decimal('37.513035'), Decimal('55.842989'))"
 Museum Demidovs;Other museums;Nizhny Novgorod Region;chicago;"(Decimal('45.671086'), Decimal('55.985926'))"
 "Museum ""Manor SN Hedekova """;Reserve museums;Ryazan Oblast;Not found;"(Decimal('39.725101'), Decimal('53.913741'))"
-Музей-усадьба &quot;Малое Пирогово&quot;;Other museums;Tula region;Not found;Not found
-Музей-усадьба &quot;Мемориальный комплекс М.Д. Скобелева&quot;;Granges;Ryazan Oblast;Not found;Not found
 "Museum-Estate AS Khomyakov ""Bogucharovo""";galleries;Tula region;Tula;"(Decimal('37.831138'), Decimal('53.920237'))"
 "Museum-Estate of AT Bolotov ""Dvoryaninova""";"Personal; memorial museum";Tula region;Not found;Not found
 Museum-Estate GR Derzhavin;"Personal; memorial museum";St. Petersburg;St. Petersburg;"(Decimal('30.315868'), Decimal('59.939095'))"
@@ -4910,12 +4828,7 @@ Smolnevo;Granges;Vladimir region;Not found;"(Decimal('38.969384'), Decimal('56.2
 Snegirjovo;Granges;Vladimir region;Snegirevo;"(Decimal('39.689528'), Decimal('56.236366'))"
 old Tatarovo;Granges;Vladimir region;Not found;"(Decimal('42.133107'), Decimal('55.889563'))"
 "Creative estate ""Guslitsa""";Granges;Moscow region;Not found;"(Decimal('38.9605'), Decimal('55.442592'))"
-Усадебно-парковый комплекс &quot;Терпилицы&quot;;Granges;Leningrad region;Not found;Not found
 Manor house Skuratov;Granges;Lipetsk region;Pavlov;"(Decimal('40.454829'), Decimal('52.232344'))"
-Усадебный дом и парк &quot;Сиворицы&quot;;Granges;Leningrad region;Not found;Not found
-Усадьба &quot;Надбелье&quot;;Granges;Leningrad region;Not found;Not found
-Усадьба &quot;Торбово&quot;;Granges;Voronezh region;Not found;Not found
-Усадьба &quot;Торбово&quot;;Granges;Voronezh region;Not found;Not found
 "Farmstead ""Belaya Dacha""";Granges;Moscow region;Boilermakers;"(Decimal('37.851934'), Decimal('55.662806'))"
 "Farmstead ""Big Vyazemy""";Granges;Moscow region;big Vyazemy;"(Decimal('36.99442'), Decimal('55.628586'))"
 "Farmstead ""Vinogradovo""";Granges;Moscow region;Dolgoprudny;"(Decimal('37.537946'), Decimal('55.945811'))"
@@ -5023,7 +4936,6 @@ Manor Fryanovo;Granges;Moscow region;Fryanovo;"(Decimal('38.432668'), Decimal('5
 Manor Halyutinyh-Sokolov;Granges;Voronezh region;Nikolskoye;"(Decimal('40.952262'), Decimal('51.46949'))"
 Manor Cherepanov;Granges;Sverdlovsk region;Visim;"(Decimal('59.496463'), Decimal('57.651605'))"
 Manor Cherkizovo;Granges;Moscow region;Cherkizovo;"(Decimal('37.798206'), Decimal('55.965335'))"
-Усадьба Чичериных &quot;Покровское&quot;;Granges;Tambov Region;Not found;Not found
 Manor Schatiloff;Granges;Republic of Crimea;Blooming;"(Decimal('34.878726'), Decimal('45.496336'))"
 Manor Shibaeva;Granges;Moscow;Not found;"(Decimal('37.513035'), Decimal('55.842989'))"
 Manor Yakovlevo;Granges;Moscow region;Yakovlevo;"(Decimal('38.378032'), Decimal('56.343064'))"
@@ -5073,7 +4985,6 @@ The lighthouse tower in village;Abandoned places;Astrakhan region;Not found;"(De
 The place of death of Mikhail Romanov;Abandoned places;Perm;Not found;"(Decimal('54.620902'), Decimal('59.038094'))"
 Dead City Tsoi-Pede;Abandoned places;Chechen Republic;Itum-Kale;"(Decimal('45.258606'), Decimal('42.708222'))"
 "Oceanographic research vessel ""Leonid Demin""";Abandoned places;Leningrad region;Not found;Not found
-Памятное место усадьбы Шиловских &quot;Усово&quot;;Abandoned places;Tambov Region;Bondarskyy;Not found
 Perm racetrack;Abandoned places;Perm;Not found;"(Decimal('55.729001'), Decimal('57.787124'))"
 Peter and Paul church;Abandoned shrine;Perm;Usolsky;"(Decimal('56.281177'), Decimal('59.381362'))"
 church of the Intercession;Abandoned shrine;Perm;Solikamsk;"(Decimal('56.75759'), Decimal('59.774661'))"
@@ -5175,7 +5086,6 @@ Genoese fortress;defenses;Republic of Crimea;Zander;"(Decimal('34.957203'), Deci
 Urban ponds with trees - third Galich fortress;defenses;Kostroma region;Galich;Not found
 Gunibskaya fortress;defenses;The Republic of Dagestan;Guniʙ;"(Decimal('46.961147'), Decimal('42.387903'))"
 Derbent wall;defenses;The Republic of Dagestan;Derbent;"(Decimal('48.288776'), Decimal('42.057669'))"
-Деревянная крепость &quot;Стрелецкий острог&quot;;defenses;Leningrad region;Not found;Not found
 Drevneuygurskaya fortress;defenses;Tyva Republic;Not found;"(Decimal('94.793085'), Decimal('51.584332'))"
 Zılın Duarte;defenses;Republic of North Ossetia - Alania;lower Zaramag;"(Decimal('43.969452'), Decimal('42.69495'))"
 Ivangorod fortress;defenses;Leningrad region;Not found;"(Decimal('31.034691'), Decimal('59.953286'))"
@@ -5186,7 +5096,6 @@ Komdagal;defenses;Republic of North Ossetia - Alania;Not found;"(Decimal('44.262
 Ramparts with gates Alekseevskaya;defenses;Rostov region;Azov;Not found
 Fortifications of Novgorod;defenses;Novgorod region;Novgorod;"(Decimal('31.092848'), Decimal('58.512818'))"
 Roundabout city fortifications;defenses;Pskov region;Pskov;Not found
-"Крепость &quot;Керчь&quot;; форт &quot;Тотлебен&quot;";defenses;Republic of Crimea;Kerch;Not found
 fortress Aluston;defenses;Republic of Crimea;Alushta;"(Decimal('34.41012'), Decimal('44.676404'))"
 fortress Valdai;defenses;Kaliningrad region;Not found;"(Decimal('21.218944'), Decimal('54.56009'))"
 Yeni-Kale Fortress;defenses;Republic of Crimea;Kerch;"(Decimal('36.467378'), Decimal('45.356219'))"

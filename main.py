@@ -23,10 +23,36 @@ def get_session():
 def root():
     return "todooo"
 
+@app.get("/attractions", response_model = List[schemas.Attractions])
+def read_attraction_list(session: Session = Depends(get_session)):
+
+    # get all attractions
+    attraction_list = session.query(models.Attractions).all()
+    return attraction_list[:100]
+
+@app.get("/attractions/locality/{locality_name}", response_model = List[schemas.Attractions])
+def filter_locality(locality_name: str, session: Session = Depends(get_session)):
+
+    attraction_list = session.query(models.Attractions).filter(models.Attractions.locality == locality_name).all()
+    return attraction_list[:100]
+
+@app.get("/attractions/type/{type_name}", response_model = List[schemas.Attractions])
+def filter_type(type_name: str, session: Session = Depends(get_session)):
+
+    attraction_list = session.query(models.Attractions).filter(models.Attractions.type == type_name).all()
+    return attraction_list[:100]
+
+@app.get("/attractions/types/", response_model = List[schemas.AttractionsType])
+def filter_type(session: Session = Depends(get_session)):
+
+    attraction_types = session.query(models.Attractions).with_entities(models.Attractions.type).all()
+    return list(set(attraction_types))
+
+
 @app.post("/todo", response_model=schemas.ToDo, status_code=status.HTTP_201_CREATED)
 def create_todo(todo: schemas.ToDoCreate, session: Session = Depends(get_session)):
 
-    # create an instance of the ToDo database model
+    # create an instance of the ToDo database modelМы забыли это прописать
     tododb = models.ToDo(task = todo.task)
 
     # add it to the session and commit it
