@@ -2,3 +2,5 @@ fastapi
 asyncpg
 gunicorn
 uvicorn
+geoalchemy2
+numpy
